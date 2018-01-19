@@ -69,7 +69,7 @@ textarea,
   font-style: normal;
 }
 .bg-primary {
-  background-color: #f39c12 !important;
+  background-color: #1f5d35 !important;
 }
 .bg-success {
   background-color: #2ecc71 !important;
@@ -84,8 +84,8 @@ textarea,
   background-color: #e74c3c !important;
 }
 .btn-primary {
-  background-color: #f39c12;
-  border-color: #f39c12;
+  background-color: #1f5d35;
+  border-color: #1f5d35;
   color: #000000;
 }
 .btn-primary:hover,
@@ -94,14 +94,14 @@ textarea,
 .btn-primary:active,
 .btn-primary.active {
   color: #ffffff;
-  background-color: #f5b043;
-  border-color: #f5b043;
+  background-color: #2c834b;
+  border-color: #2c834b;
 }
 .btn-primary.disabled,
 .btn-primary:disabled {
   color: #ffffff !important;
-  background-color: #f5b043 !important;
-  border-color: #f5b043 !important;
+  background-color: #2c834b !important;
+  border-color: #2c834b !important;
 }
 .btn-secondary {
   background-color: #9b59b6;
@@ -205,8 +205,8 @@ textarea,
 }
 .btn-primary-outline {
   background: none;
-  border-color: #ef970c;
-  color: #ef970c;
+  border-color: #1c5531;
+  color: #1c5531;
 }
 .btn-primary-outline:hover,
 .btn-primary-outline:focus,
@@ -214,14 +214,14 @@ textarea,
 .btn-primary-outline:active,
 .btn-primary-outline.active {
   color: #fff;
-  background-color: #f39c12;
-  border-color: #f39c12;
+  background-color: #1f5d35;
+  border-color: #1f5d35;
 }
 .btn-primary-outline.disabled,
 .btn-primary-outline:disabled {
   color: #000000 !important;
-  background-color: #f39c12 !important;
-  border-color: #f39c12 !important;
+  background-color: #1f5d35 !important;
+  border-color: #1f5d35 !important;
 }
 .btn-secondary-outline {
   background: none;
@@ -324,7 +324,7 @@ textarea,
   border-color: #e74c3c !important;
 }
 .btn-primary.btn-text {
-  color: #f39c12;
+  color: #1f5d35;
   background: none;
   border: none;
 }
@@ -333,7 +333,7 @@ textarea,
 .btn-primary.btn-text.focus,
 .btn-primary.btn-text:active,
 .btn-primary.btn-text.active {
-  color: #f5b043;
+  color: #2c834b;
   background: none !important;
   border: none !important;
 }
@@ -436,7 +436,7 @@ textarea,
   border: none !important;
 }
 .text-primary {
-  color: #f39c12 !important;
+  color: #1f5d35 !important;
 }
 .text-success {
   color: #2ecc71 !important;
@@ -463,35 +463,35 @@ textarea,
   background-color: #e74c3c;
 }
 .btn-social {
-  border-color: #f39c12;
+  border-color: #1f5d35;
 }
 .btn-social:hover {
-  background: #f39c12;
+  background: #1f5d35;
 }
 .mbr-company .list-group-item.active .list-group-text {
-  color: #f39c12;
+  color: #1f5d35;
 }
 .mbr-footer p a,
 .mbr-footer ul a {
-  color: #f39c12;
+  color: #1f5d35;
 }
 .mbr-footer-content li::before,
 .mbr-footer .mbr-contacts li::before {
-  background: #f39c12;
+  background: #1f5d35;
 }
 .mbr-footer-content li a:hover,
 .mbr-footer .mbr-contacts li a:hover {
-  color: #f39c12;
+  color: #1f5d35;
 }
 .lead a {
-  color: #f39c12;
+  color: #1f5d35;
 }
 .lead a:hover {
-  color: #f5b043;
+  color: #2c834b;
 }
 .mbr-plan-header.bg-primary .mbr-plan-subtitle,
 .mbr-plan-header.bg-primary .mbr-plan-price-desc {
-  color: #fdedd4;
+  color: #3fbd6b;
 }
 .mbr-plan-header.bg-success .mbr-plan-subtitle,
 .mbr-plan-header.bg-success .mbr-plan-price-desc {
@@ -511,7 +511,7 @@ textarea,
 }
 .mbr-small-footer a,
 .mbr-gallery-filter li:hover {
-  color: #f39c12;
+  color: #1f5d35;
 }
 .scrollToTop_wraper {
   opacity: 0 !important;
@@ -519,10 +519,10 @@ textarea,
 /*colorM*/
 /*nav-tabs*/
 .header5 .nav-tabs .nav-link:after {
-  background: #f39c12;
+  background: #1f5d35;
 }
 .header9 .nav-tabs .nav-link.active:after {
-  background: #f39c12;
+  background: #1f5d35;
   color: #222;
 }
 /*end-nav-tabs*/
@@ -535,17 +535,17 @@ textarea,
 }
 .mbr-arrow a,
 .mbr-arrow-up a {
-  background: rgba(243, 156, 18, 0.6);
+  background: rgba(31, 93, 53, 0.6);
   color: #000;
 }
 .mbr-arrow a:hover,
 .mbr-arrow-up a:hover {
-  background: #f4a62a;
+  background: #257040;
 }
 /*end mbr-arrow next and toTop*/
 /*features8*/
 .card .card-number {
-  background: #f39c12;
+  background: #1f5d35;
 }
 /*features14*/
 .features13 .card .card-number,
@@ -554,74 +554,74 @@ textarea,
 }
 /*features15*/
 .features15 .card-block:before {
-  border-color: rgba(243, 156, 18, 0.5);
+  border-color: rgba(31, 93, 53, 0.5);
 }
 /*features16*/
 .features16 .mbr-section-subtitle:before {
-  background: #f39c12;
+  background: #1f5d35;
 }
 /*slider elements*/
 .mbr-slider .carousel-control:hover {
-  background: #f39c12;
+  background: #1f5d35;
 }
 .mbr-slider .carousel-indicators .active {
-  background: #f39c12;
+  background: #1f5d35;
 }
 /*gallery*/
 .mbr-gallery .modal .close {
-  border-color: #f39c12;
+  border-color: #1f5d35;
 }
 .mbr-gallery .modal .close:hover {
-  background: #f39c12;
+  background: #1f5d35;
 }
 .mbr-gallery-filter li.active {
-  border-color: #f39c12;
+  border-color: #1f5d35;
   color: #000;
 }
 .mbr-gallery-filter li:hover {
-  background: #f5b043;
+  background: #2c834b;
   color: #000;
 }
 .mbr-gallery .mbr-gallery-item:hover > div::before {
-  background: rgba(243, 156, 18, 0.5);
+  background: rgba(31, 93, 53, 0.5);
 }
 .mbr-gallery .mbr-gallery-item:hover {
-  background: #f39c12;
+  background: #1f5d35;
 }
 /*end gallery*/
 /*blockquote*/
 blockquote {
-  border-left: 3px solid #f39c12;
+  border-left: 3px solid #1f5d35;
 }
 /*content4*/
 .content4 p {
-  border-top-color: #f39c12;
-  border-bottom-color: #f39c12;
+  border-top-color: #1f5d35;
+  border-bottom-color: #1f5d35;
 }
 /*image2, video2*/
 .image1 .mbr-figure-caption,
 .video1 .mbr-figure-caption,
 .image2 .mbr-figure-caption,
 .video2 .mbr-figure-caption {
-  background-color: #f39c12;
+  background-color: #1f5d35;
 }
 /* progress bar */
 .progressbar .progress-primary[value]::-webkit-progress-value {
-  background-color: #f39c12;
+  background-color: #1f5d35;
 }
 .progressbar .progress-primary[value]::-moz-progress-bar {
-  background-color: #f39c12;
+  background-color: #1f5d35;
 }
 .progressbar .progress-primary[value]::-ms-fill {
-  background-color: #f39c12;
+  background-color: #1f5d35;
 }
 @media screen and (min-width: 0\0) {
   .progressbar .progress-primary .progress-bar {
-    background-color: #f39c12;
+    background-color: #1f5d35;
   }
 }
 .progressbar .progressbar-number {
-  background: #f5b043;
+  background: #2c834b;
 }
 /*countdown*/
 .countdown .period {
@@ -632,38 +632,38 @@ blockquote {
   font-family: 'Arvo', serif;
 }
 .countdown1 .number-wrap {
-  border-color: #f39c12;
+  border-color: #1f5d35;
 }
 .countdown2 .bottom1 {
-  background: #f5b043;
+  background: #2c834b;
 }
 .countdown2 .bottom2 {
-  background: #c87f0a;
+  background: #12371f;
 }
 /*accordion*/
 .accordion .panel-heading {
-  background: #f5b043;
-  border-bottom: 1px solid #c87f0a;
+  background: #2c834b;
+  border-bottom: 1px solid #12371f;
 }
 .accordion .panel-heading:hover {
-  background: #c87f0a;
+  background: #12371f;
 }
 .accordion .accordion-group .panel:last-child:after {
-  background: #c87f0a;
+  background: #12371f;
 }
 /* news */
 .news__card:hover {
-  background: #f39c12;
+  background: #1f5d35;
 }
 /*footer*/
 .footer1 .footer-list a:hover {
-  color: #f39c12;
+  color: #1f5d35;
 }
 .shop1 .shop-item-price {
   font-family: 'Montserrat', sans-serif;
 }
 .shop1 .mbr-gallery-item:hover .item_overlay {
-  background: #f39c12;
+  background: #1f5d35;
   opacity: 0.2;
 }
 .team1 .title1,
@@ -700,7 +700,7 @@ blockquote {
 .person-info .subtitle2,
 .person-info .subtitle3,
 .person-info .subtitle4 {
-  color: #f39c12;
+  color: #1f5d35;
 }
 .animated-bg1 .text {
   font-family: 'Open Sans', sans-serif;
@@ -738,6 +738,17 @@ blockquote {
   text-align: left;
   font-size: 16px;
 }
+#call1-h .display-1 {
+  font-weight: 700;
+}
+#call1-h .lead {
+  color: #fff;
+  text-transform: uppercase;
+  margin-bottom: 0;
+}
+#call1-h .mbr-section-title {
+  font-size: 84px;
+}
 #pricing-table2-8 .mbr-section__container .mbr-section-title {
   color: #fff;
 }
@@ -751,6 +762,18 @@ blockquote {
   text-align: center;
   font-size: 46px;
 }
+#call3-f .display-1 {
+  font-weight: 700;
+  color: #fff;
+}
+#call3-f .lead {
+  color: #fff;
+  text-transform: uppercase;
+  margin-bottom: 0;
+}
+#call3-f .mbr-section-subtitle {
+  font-size: 24px;
+}
 #features17-9 .mbr-section-title {
   font-weight: 400;
   text-align: left;
@@ -762,4 +785,10 @@ blockquote {
 }
 #features17-9 .mbr-section-title P {
   font-size: 46px;
+}
+#form1-g .mbr-section-subtitle {
+  text-transform: uppercase;
+}
+#form1-g .form-control-label {
+  color: undefined;
 }

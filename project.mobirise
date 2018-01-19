@@ -6,7 +6,7 @@
       "name": "colorm",
       "title": "ColorM",
       "styling": {
-        "primaryColor": "#f39c12",
+        "primaryColor": "#1f5d35",
         "buttonsColor": "#000000",
         "secondaryColor": "#9b59b6",
         "successColor": "#2ecc71",
@@ -27,7 +27,7 @@
       ]
     },
     "versionFirst": "4.5.2",
-    "uniqCompNum": 12,
+    "uniqCompNum": 18,
     "versionPublish": "4.5.2"
   },
   "pages": {
@@ -76,7 +76,7 @@
           },
           "arrowDown": "@THEME_PATH@/components/_images/header/arrowDown.png",
           "title": "vinde online, <br>fara comision.<br>",
-          "text": "<br><br>doresti sa iti cresti vanzarile<br>restaurantului tau?",
+          "text": "<br><br>doresti sa cresti vanzarile<br>restaurantului tau?",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-transparent\" href=\"index.html#features9-6\" data-toolbar=\"-mbrBtnMove\">Cum functioneaza</a> <a data-app-btn=\"true\" class=\"btn btn-transparent\" href=\"index.html#pricing-table2-8\" data-toolbar=\"-mbrBtnMove\">pret</a><a data-app-btn=\"true\" class=\"btn btn-transparent\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Intrebari frecvente</a><a data-app-btn=\"true\" class=\"btn btn-transparent\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">contact</a>",
           "alias": "colorm/components",
           "_tags": [
@@ -151,10 +151,45 @@
           ],
           "_name": "features9",
           "_anchor": "features9-6",
-          "_customHTML": "<section class=\"mbr-section features9\" data-rv-view=\"18\" style=\"background-color: rgb(241, 196, 15); padding-top: 100px; padding-bottom: 100px;\">\n    <div class=\"elements-content\">\n        \n        <div class=\"container titleBlock\">\n            <div class=\"col-xs-12 text-xs-center\">\n                    <h3 class=\"mbr-section-title display-2 mbr-editable-content\" code-editable-id=\"51\">Cum functioneaza?</h3>\n                    <h5 class=\"mbr-section-subtitle mbr-editable-content\" code-editable-id=\"52\">Am conceput un proces simplu atat <br>pentru client cat si pentru restaurant.</h5>\n            </div>\n        </div>    \n        <div class=\"container timelineHeight\">\n            <ul class=\"timeline\">\n                <li class=\"timeline-normal separline\" style=\"display: block;\">\n                <span class=\"separator\" style=\"background-color: rgb(239, 239, 239);\"></span>\n                    <div class=\"date date-normal\">\n                        <p class=\"h-black mbr-editable-content\" style=\"background-color: rgb(239, 239, 239);\" code-editable-id=\"53\">00:01:03</p>\n                    </div>\n                    <span class=\"iconBackground\" style=\"background-color: rgb(239, 239, 239);\"><span class=\"icon\"></span></span>\n                    <div class=\"timeline-panel\" style=\"background-color: rgb(239, 239, 239);\">\n                        <h4 class=\"h-black text-right mbr-editable-content\" code-editable-id=\"54\">1. Clientul Comanda</h4>\n                        <p class=\"mbr-section-text-gray lead h-black mbr-editable-content\" code-editable-id=\"55\">Andreea doreste sa manance o pizza de la restaurantul ei preferat care tocmai ce a inceput sa accepte <em>comenzi online</em>.&nbsp;<br><br>Intra pe website si exploreaza meniul complet fara \"sa fure\" din timpul pretios al restaurantului. Aceasta <em>se conecteaza</em> cu adresa de Facebook ca la urmatoarea comanda <em>sa nu mai fie nevoita sa completeze</em> detaliile de livrare.&nbsp;<br><br>Andreea, adora ca poate alege sa plateasca si&nbsp;<em>online cu cardul</em>.<br></p>\n                    </div>\n                </li>\n\n                <li class=\"timeline-inverted separline\" style=\"display: block;\">\n                <span class=\"separator\" style=\"background-color: rgb(239, 239, 239);\"></span>\n                    <div class=\"date date-inverted\">\n                        <p class=\"mbr-section-text-gray mbr-editable-content\" style=\"background-color: rgb(239, 239, 239);\" code-editable-id=\"56\">00:01:20</p>\n                    </div>\n                    <div class=\"timeline-panel\" style=\"background-color: rgb(239, 239, 239);\">\n                        <h4 class=\"h-black mbr-editable-content\" code-editable-id=\"57\">2. Restaurantul Actioneaza</h4>\n                        <p class=\"mbr-section-text-gray lead h-black mbr-editable-content\" code-editable-id=\"58\">Printre galagia din bucatarie telefonul sau tableta incep sa <em>notifice sonor</em> primirea unei noi comenzi.&nbsp;<br><br>Restaurantul <em>accepta comanda</em> si <em>specifica un timp de livrare</em> de aproximativ 50 de minute. <em>Prepararea</em> celei mai bune pizza tocmai ce a <em>inceput</em>.&nbsp;</p>\n                    </div>\n                    <span class=\"iconBackgroundInverse\" style=\"background-color: rgb(239, 239, 239);\"><span class=\"icon\"></span></span>\n                </li>\n\n                <li class=\"timeline-normal separline\" style=\"display: block;\">\n                <span class=\"separator\" style=\"display: none; background-color: rgb(239, 239, 239);\"></span>\n                    <div class=\"date date-normal\">\n                        <p class=\"mbr-section-text-gray mbr-editable-content\" style=\"background-color: rgb(239, 239, 239);\" code-editable-id=\"59\">00:01:57</p>\n                    </div>\n                    <span class=\"iconBackground\" style=\"background-color: rgb(239, 239, 239);\"><span class=\"icon\"></span></span>\n                    <div class=\"timeline-panel\" style=\"background-color: rgb(239, 239, 239);\">\n                        <h4 class=\"h-black text-right mbr-editable-content\" code-editable-id=\"60\">3. Notificarea Clientului</h4>\n                        <p class=\"mbr-section-text-gray lead h-black mbr-editable-content\" code-editable-id=\"61\">Andreea ramane <em>uimita</em> cand <em>primeste un SMS</em> care specifica timpul aproximativ de livrare. <em>\"WOW, ce usor si rapid a fost sa comand online\".</em></p>\n                    </div>\n                </li>\n\n                \n\n                \n\n                \n\n                \n\n                \n\n                \n\n                \n\n                 \n\n                \n\n            </ul>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section features9\" data-rv-view=\"18\" style=\"background-color: rgb(241, 196, 15); padding-top: 100px; padding-bottom: 100px;\">\n    <div class=\"elements-content\">\n        \n        <div class=\"container titleBlock\">\n            <div class=\"col-xs-12 text-xs-center\">\n                    <h3 class=\"mbr-section-title display-2 mbr-editable-content\" code-editable-id=\"51\">Cum functioneaza?</h3>\n                    <h5 class=\"mbr-section-subtitle mbr-editable-content\" code-editable-id=\"52\">Am conceput un proces simplu atat <br>pentru client cat si pentru restaurant.</h5>\n            </div>\n        </div>    \n        <div class=\"container timelineHeight\">\n            <ul class=\"timeline\">\n                <li class=\"timeline-normal separline\" style=\"display: block;\">\n                <span class=\"separator\" style=\"background-color: rgb(239, 239, 239);\"></span>\n                    <div class=\"date date-normal\">\n                        <p class=\"h-black mbr-editable-content\" style=\"background-color: rgb(239, 239, 239);\" code-editable-id=\"53\">00:01:03</p>\n                    </div>\n                    <span class=\"iconBackground\" style=\"background-color: rgb(239, 239, 239);\"><span class=\"icon\"></span></span>\n                    <div class=\"timeline-panel\" style=\"background-color: rgb(239, 239, 239);\">\n                        <h4 class=\"h-black text-right mbr-editable-content\" code-editable-id=\"54\">1. Clientul Comanda</h4>\n                        <p class=\"mbr-section-text-gray lead h-black mbr-editable-content\" code-editable-id=\"55\">Andreea doreste sa manance o pizza de la restaurantul ei preferat care tocmai ce a inceput sa accepte <em>comenzi online</em>.&nbsp;<br><br>Intra pe website si exploreaza meniul complet fara \"sa fure\" din timpul pretios al restaurantului. Aceasta <em>se conecteaza</em> cu adresa de Facebook in website, ca la urmatoarea comanda <em>sa nu mai fie nevoita sa completeze</em> detaliile de livrare.&nbsp;<br><br>Andreea adora ca poate alege sa plateasca si&nbsp;<em>online cu cardul</em>.<br></p>\n                    </div>\n                </li>\n\n                <li class=\"timeline-inverted separline\" style=\"display: block;\">\n                <span class=\"separator\" style=\"background-color: rgb(239, 239, 239);\"></span>\n                    <div class=\"date date-inverted\">\n                        <p class=\"mbr-section-text-gray mbr-editable-content\" style=\"background-color: rgb(239, 239, 239);\" code-editable-id=\"56\">00:01:20</p>\n                    </div>\n                    <div class=\"timeline-panel\" style=\"background-color: rgb(239, 239, 239);\">\n                        <h4 class=\"h-black mbr-editable-content\" code-editable-id=\"57\">2. Restaurantul Actioneaza</h4>\n                        <p class=\"mbr-section-text-gray lead h-black mbr-editable-content\" code-editable-id=\"58\">Printre galagia din bucatarie telefonul sau tableta incep sa <em>notifice sonor</em> primirea unei noi comenzi.&nbsp;<br><br>Restaurantul <em>accepta comanda</em> si <em>specifica un timp de livrare</em> de aproximativ 50 de minute. <em>Prepararea</em> celei mai bune pizza tocmai ce a <em>inceput</em>.&nbsp;</p>\n                    </div>\n                    <span class=\"iconBackgroundInverse\" style=\"background-color: rgb(239, 239, 239);\"><span class=\"icon\"></span></span>\n                </li>\n\n                <li class=\"timeline-normal separline\" style=\"display: block;\">\n                <span class=\"separator\" style=\"display: none; background-color: rgb(239, 239, 239);\"></span>\n                    <div class=\"date date-normal\">\n                        <p class=\"mbr-section-text-gray mbr-editable-content\" style=\"background-color: rgb(239, 239, 239);\" code-editable-id=\"59\">00:01:57</p>\n                    </div>\n                    <span class=\"iconBackground\" style=\"background-color: rgb(239, 239, 239);\"><span class=\"icon\"></span></span>\n                    <div class=\"timeline-panel\" style=\"background-color: rgb(239, 239, 239);\">\n                        <h4 class=\"h-black text-right mbr-editable-content\" code-editable-id=\"60\">3. Notificarea Clientului</h4>\n                        <p class=\"mbr-section-text-gray lead h-black mbr-editable-content\" code-editable-id=\"61\">Andreea ramane <em>uimita</em> cand <em>primeste un SMS</em> care specifica timpul aproximativ de livrare. <em>\"WOW, ce usor si rapid a fost sa comand online\".</em></p>\n                    </div>\n                </li>\n\n                \n\n                \n\n                \n\n                \n\n                \n\n                \n\n                \n\n                 \n\n                \n\n            </ul>\n        </div>\n    </div>\n</section>",
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
           "_customCSS": "H4 {\n  color: #1f5d35;\n}\nP {\n  text-align: left;\n  font-size: 16px;\n}\n",
+          "_customTemplate": true
+        },
+        {
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "showTitle": true,
+            "showText": false,
+            "showButtons": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/02.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#16a085",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=HnPYeBJ9JCc"
+            },
+            "overlay": true,
+            "overlayColor": "#16a085",
+            "overlayOpacity": 0.9
+          },
+          "title": "la fel pe orice tip de dispozitiv.",
+          "text": "",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary btn-lg\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">vezi demo</a>",
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "call1",
+          "_anchor": "call1-h",
+          "_customHTML": "<section class=\"mbr-section mbr-section-hero call1 mbr-parallax-background\" data-rv-view=\"4\" style=\"background-image: url(&quot;@PROJECT_PATH@/assets/images/02.jpg&quot;); padding-top: 80px; padding-bottom: 80px;\">\n\n    <div class=\"mbr-overlay\" style=\"opacity: 0.9; background-color: rgb(22, 160, 133);\"></div>\n\n        <div class=\"container-fluid\">\n            <div class=\"row\">\n                <div class=\"col-xs-12 col-lg-10 col-lg-offset-1 text-xs-left\">\n\n                    <div class=\"col-xs-12 col-lg-8 text-lg-left text-xs-center table-cell-lg\">\n                        \n\n                        <h1 class=\"mbr-section-title display-1 mbr-editable-content\" code-editable-id=\"16\">la fel pe orice tip de dispozitiv.</h1>\n                    </div>\n\n                    <div class=\"col-xs-12 col-lg-4 text-xs-center table-cell-lg table-cell-middle\">\n                        <div class=\"mbr-section-btn\"><a class=\"btn btn-primary btn-lg mbr-editable-button ordering_online_class\" href=\"javascript:void(0);\" target=\"_blank\" code-editable-id=\"17\">vezi demo</a></div>\n                                   \n\n                    </div>\n\n                </div>\n            </div>\n        </div>\n\n</section>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customCSS": ".display-1 {\n  font-weight: 700;\n}\n.lead {\n  color: #fff;\n  text-transform: uppercase;\n  margin-bottom: 0;\n}\n.mbr-section-title {\n  font-size: 84px;\n}\n",
           "_customTemplate": true
         },
         {
@@ -183,10 +218,10 @@
             "paddingTop": 3,
             "paddingBottom": 3,
             "showButtons": true,
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/pricing-table-bg.jpg",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/pricing-table/pricing-table-bg.jpg",
             "parallax": false,
-            "bgColorRadio": false,
+            "bgColorRadio": true,
             "bgColor": "#ecf0f1",
             "bgVideoRadio": false,
             "bgVideo": {
@@ -196,8 +231,8 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "Cat costa?",
-          "subtitle": " Suntem constienti de importanta profitului pentru restaurantul tau,&nbsp;asa ca am ales sa nu comisional fiecare comanda pe care o ai.&nbsp;",
+          "title": "CAT COSTA?",
+          "subtitle": " Suntem constienti de importanta profitului pentru restaurantul tau,&nbsp;asa ca am ales sa nu comisionam fiecare comanda pe care o ai.&nbsp;",
           "title1": "",
           "title2": "TEAM PLAN",
           "title3": "CORPORATE PLAN",
@@ -231,6 +266,50 @@
           ],
           "_name": "pricing-table2",
           "_anchor": "pricing-table2-8"
+        },
+        {
+          "_styles": {
+            ".display-1": {
+              "font-weight": "700",
+              "color": "#fff"
+            },
+            ".lead": {
+              "color": "#fff",
+              "text-transform": "uppercase",
+              "margin-bottom": "0"
+            },
+            ".mbr-section-subtitle": {
+              "font-size": "24px"
+            }
+          },
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "showTitle": false,
+            "showText": true,
+            "showButtons": false,
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1620x1080.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#e74c3c",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=HnPYeBJ9JCc"
+            },
+            "overlay": true,
+            "overlayColor": "#e74c3c",
+            "overlayOpacity": 0.9
+          },
+          "title": "BEAUTIFUL MOBILE WEBSITES",
+          "text": "100 LEI se investesc in promovarea restaurantului pe plan local pentru a avea rezultate cat mai repede.&nbsp;<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary btn-lg\" href=\"https://mobirise.com\">see live demo</a>",
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "call3",
+          "_anchor": "call3-f"
         },
         {
           "_styles": {
@@ -273,6 +352,110 @@
           ],
           "_name": "features17",
           "_anchor": "features17-9"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "tabs": "3",
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/img_extAccordion1_bg.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#151515",
+            "overlayOpacity": 0.5
+          },
+          "title": "INTREBARI FRECVENTE?",
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut beatae nostrum quis ab, fuga ducimus, eligendi facere atque provident tempore vitae, cupiditate fugit explicabo. Nostrum quidem itaque blanditiis maxime, perferendis numquam ab a exercitationem impedit repellat, voluptate sunt! Veritatis, nam.",
+          "title1": "<a role=\"button\" class=\"text-white\" data-toggle=\"collapse\" data-parent=\"#accordion1-e-init\" data-core=\"\" href=\"#collapseOneaccordion1-e\" aria-expanded=\"true\" aria-controls=\"collapseOne\"><span class=\"sign\"></span>What is Mobirise?</a>",
+          "title2": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion\" data-core=\"\" href=\"#collapseTwo\" aria-expanded=\"false\" aria-controls=\"collapseTwo\">Is it good for me?</a>",
+          "title3": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion\" data-core=\"\" href=\"#collapseThree\" aria-expanded=\"false\" aria-controls=\"collapseThree\">Why Mobirise?</a>",
+          "title4": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion\" data-core=\"\" href=\"#collapseFour\" aria-expanded=\"false\" aria-controls=\"collapseFour\">This is a accordion Title 4</a>",
+          "title5": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion\" data-core=\"\" href=\"#collapseFive\" aria-expanded=\"false\" aria-controls=\"collapseFive\">This is a accordion Title 5</a>",
+          "title6": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion\" data-core=\"\" href=\"#collapseSix\" aria-expanded=\"false\" aria-controls=\"collapseSix\">This is a accordion Title 6</a>",
+          "text1": "<p>Mobirise is an offline app for Window and Mac to easily create small/medium websites, landing pages, online resumes and portfolios, promo sites for apps, events, services and products.</p>",
+          "text2": "<p>Mobirise is perfect for non-techies who are not familiar with the intricacies of web development and for designers who prefer to work as visually as possible, without fighting with code. Also great for pro-coders for fast prototyping and small customers' projects.</p>",
+          "text3": "<p>Key differences from traditional builders:<br>* Minimalistic, extremely <strong>easy-to-use</strong> interface<br>* <strong>Mobile</strong>-friendliness, latest website blocks and techniques \"out-the-box\"<br>* <strong>Free</strong> for commercial and non-profit use</p>",
+          "text4": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in nulla ut magna vehicula libero luctus in ipsum consequat faucibus. Ut porta nulla ac dapibus convallis. Curabitur sit amet massa quam. In ut ex auctor, porta neque quis, sagittis purus. Nunc auctor gravida magna, sed efficitur tortor tristique quis.</p>",
+          "text5": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in nulla ut magna vehicula libero luctus in ipsum consequat faucibus. Ut porta nulla ac dapibus convallis. Curabitur sit amet massa quam. In ut ex auctor, porta neque quis, sagittis purus. Nunc auctor gravida magna, sed efficitur tortor tristique quis.</p>",
+          "text6": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in nulla ut magna vehicula libero luctus in ipsum consequat faucibus. Ut porta nulla ac dapibus convallis. Curabitur sit amet massa quam. In ut ex auctor, porta neque quis, sagittis purus. Nunc auctor gravida magna, sed efficitur tortor tristique quis.</p>",
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "accordion1",
+          "_anchor": "accordion1-e"
+        },
+        {
+          "_styles": {
+            ".mbr-section-subtitle": {
+              "text-transform": "uppercase"
+            },
+            ".form-control-label": {}
+          },
+          "_params": {
+            "showSubtitle": true,
+            "showTitle": true,
+            "showText": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/header/03.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ecf0f1",
+            "overlay": false,
+            "overlayColor": "#ecf0f1",
+            "overlayOpacity": 0.5
+          },
+          "iconName": "<img src=\"@PROJECT_PATH@/assets/images/icon-name.png\">",
+          "iconEmail": "<img src=\"@PROJECT_PATH@/assets/images/icon-email.png\">",
+          "iconPhone": "<img src=\"@PROJECT_PATH@/assets/images/icon-phone.png\">",
+          "title": "CONTACT FORM",
+          "subtitle": "Shape your future web project with sharp design and refine coded functions.",
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem nobis, ea amet non commodi voluptate. Aspernatur libero cumque in unde et culpa corrupti asperiores praesentium voluptatum iure dolores illo nihil saepe distinctio eaque explicabo quis ipsam sed consectetur, accusantium ex qui. Voluptas nam consectetur, dolorem sed quo qui iusto dolor!",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">CONTACT US</a>",
+          "form": {
+            "action": "fpop2803@gmail.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "visible": true,
+                "title": "Name",
+                "customTitle": "Name*"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "visible": true,
+                "title": "Phone",
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form1",
+          "_anchor": "form1-g"
         }
       ]
     }

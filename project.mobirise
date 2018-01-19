@@ -27,7 +27,7 @@
       ]
     },
     "versionFirst": "4.5.2",
-    "uniqCompNum": 10,
+    "uniqCompNum": 12,
     "versionPublish": "4.5.2"
   },
   "pages": {
@@ -60,7 +60,7 @@
           "_params": {
             "showTitle": true,
             "showText": true,
-            "showButtons": false,
+            "showButtons": true,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/pexels-photo-724216-1920x1280.jpg",
             "parallax": false,
@@ -75,9 +75,9 @@
             "overlayOpacity": 0.6
           },
           "arrowDown": "@THEME_PATH@/components/_images/header/arrowDown.png",
-          "title": "vinde online, <br>fara comision.<br><br><br>",
+          "title": "vinde online, <br>fara comision.<br>",
           "text": "<br><br>doresti sa iti cresti vanzarile<br>restaurantului tau?",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-transparent\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">download now</a><a data-app-btn=\"true\" class=\"btn btn-transparent\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">menu</a><a data-app-btn=\"true\" class=\"btn btn-transparent\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">blog</a><a data-app-btn=\"true\" class=\"btn btn-transparent\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">contacts</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-transparent\" href=\"index.html#features9-6\" data-toolbar=\"-mbrBtnMove\">Cum functioneaza</a> <a data-app-btn=\"true\" class=\"btn btn-transparent\" href=\"index.html#pricing-table2-8\" data-toolbar=\"-mbrBtnMove\">pret</a><a data-app-btn=\"true\" class=\"btn btn-transparent\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Intrebari frecvente</a><a data-app-btn=\"true\" class=\"btn btn-transparent\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">contact</a>",
           "alias": "colorm/components",
           "_tags": [
             "Theme"
@@ -197,7 +197,7 @@
             "overlayOpacity": 0.5
           },
           "title": "Cat costa?",
-          "subtitle": " Suntem constienti de importanta profitului pentru restaurantul tau,&nbsp;<br>asa ca am ales sa nu comisional fiecare comanda pe care o ai.&nbsp;",
+          "subtitle": " Suntem constienti de importanta profitului pentru restaurantul tau,&nbsp;asa ca am ales sa nu comisional fiecare comanda pe care o ai.&nbsp;",
           "title1": "",
           "title2": "TEAM PLAN",
           "title3": "CORPORATE PLAN",
@@ -265,7 +265,7 @@
             "overlayColor": "#ffc80a",
             "overlayOpacity": 0.9
           },
-          "title": "<p>100 LEI se investesc in promovarea restaurantului pe plan local pentru a avea rezultate &nbsp;cat mai repede.</p>",
+          "title": "<p>100 LEI se investesc in promovarea restaurantului pe plan local pentru a avea rezultate cat mai repede.</p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-white-outline\" href=\"https://mobirise.com\"><span class=\"cm-icon cm-icon-arrowright mbr-iconfont mbr-iconfont-btn\"></span></a>",
           "alias": "colorm/components",
           "_tags": [
